@@ -1,11 +1,11 @@
 # Rode-Clone(front-end)
 
-Live Link: https://pa-rode-clone.netlify.app/
+Live Link: https://pa-rode-clone.netlify.app/ <br>
 
-###This project is a clone(front end) of Rode website https://rode.com/en  built using HTML and Tailwind CSS. <br>
-###This website hepled me to improve my skills of Tailwind CSS. <br>
-###It is fully responsive website. <br>
-####Time of completion: 16 hours. <br>
+### This project is a clone(front end) of Rode website https://rode.com/en  built using HTML and Tailwind CSS. <br>
+### This website hepled me to improve my skills of Tailwind CSS. <br>
+### It is fully responsive website. <br>
+#### Time of completion: 16 hours. <br>
 
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/52568868/213917015-00f9f709-c877-4a03-930b-1a48a56d2fd0.png"> <br>
 
